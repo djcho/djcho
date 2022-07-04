@@ -7,11 +7,11 @@
 
 ## Technical Skills
 ![C](https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp)&nbsp;
-![C++](https://shields.io/badge/C%2B%2B-004880?style=flat&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;*
+![C++](https://shields.io/badge/C%2B%2B-004880?style=flat&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;
 ![C#](https://shields.io/badge/C%23-004880?style=flat&logo=csharp&logoColor=239120)&nbsp;
-![Java](https://shields.io/badge/Java-004880?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;*\
+![Java](https://shields.io/badge/Java-004880?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;\
 ![PowerShell](https://shields.io/badge/PowerShell-004880?style=flat&logo=PowerShell&logoColor=5391FE)&nbsp;
-![Python](https://shields.io/badge/Python-004880?style=flat&logo=Python&logoColor=3776AB)&nbsp;*
+![Python](https://shields.io/badge/Python-004880?style=flat&logo=Python&logoColor=3776AB)&nbsp;
 ![Javascript](https://shields.io/badge/Javascript-004880?style=flat&logo=Javascript&logoColor=F7DF1E)&nbsp;
 ![Lua](https://shields.io/badge/LuaScript-004880?style=flat&logo=Lua&logoColor=2C2D72)&nbsp;\
 ![Windows](https://shields.io/badge/Windows-004880?style=flat&logo=Windows&logoColor=0078D6)&nbsp;
