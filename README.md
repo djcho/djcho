@@ -22,5 +22,9 @@
 ![InteliJ](https://shields.io/badge/IntelliJ-004880?style=flat&logo=IntellijIDEA&logoColor=000000)&nbsp;\
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcho)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&show_icons=true&count_private=true)  
+
 [Show Details...](https://github.com/djcho/career-Dev.djcho)
 
