@@ -31,6 +31,6 @@
 
 ## Repository Stats
 ![djcho's GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&theme=aura&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcho&layout=compact&theme=aura) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcho&layout=compact&theme=aura&card_width=200) 
 
 
