@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Daejoon</h1> -->
-<h3 align="center">A passionate backend and Windows developer from South Korea</h3>
+<h3 align="center">A passionate backend & Windows developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djcho&label=Profile%20views&color=0e75b6&style=flat" alt="djcho" /> </p>
 
