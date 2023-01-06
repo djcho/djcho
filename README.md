@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daejoon</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h3 align="center">A passionate backend and Windows developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djcho&label=Profile%20views&color=0e75b6&style=flat" alt="djcho" /> </p>
 
@@ -22,7 +22,7 @@
 ![C](https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp)&nbsp;
 ![C++](https://shields.io/badge/C%2B%2B-004880?style=flat&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;
 ![C#](https://shields.io/badge/C%23-004880?style=flat&logo=csharp&logoColor=239120)&nbsp;
-![Java](https://shields.io/badge/Java-004880?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;\
+![Java](https://shields.io/badge/Java-004880?style=flat&logo=java&logoColor=FFFFFF)&nbsp;\
 ![Python](https://shields.io/badge/Python-004880?style=flat&logo=Python&logoColor=3776AB)&nbsp;
 ![Javascript](https://shields.io/badge/Javascript-004880?style=flat&logo=Javascript&logoColor=F7DF1E)&nbsp;
 ![Lua](https://shields.io/badge/LuaScript-004880?style=flat&logo=Lua&logoColor=2C2D72)&nbsp;\
