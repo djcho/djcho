@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcho)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&theme=dark&show_icons=true)
+![djcho's GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&theme=dark&show_icons=true)
 
 [Show Details...](https://github.com/djcho/career-Dev.djcho)
 
