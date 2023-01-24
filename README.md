@@ -26,7 +26,7 @@
 ![InteliJ](https://shields.io/badge/IntelliJ-004880?style=flat&logo=IntellijIDEA&logoColor=000000)&nbsp;\-->
 
 ## Repository Stats
-![djcho's GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&theme=aura&show_icons=true)
+[![djcho's GitHub stats](https://github-readme-stats.vercel.app/api?username=djcho&theme=aura&show_icons=true)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djcho&layout=compact&theme=aura&card_width=200) 
 
 
