@@ -27,6 +27,6 @@
 
 ## Repository Stats
 ![djcho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=djcho&theme=react&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djcho&layout=compact&theme=react&card_width=200) 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djcho&layout=compact&theme=react&card_width=300) 
 
 
